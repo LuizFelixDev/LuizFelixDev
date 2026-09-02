@@ -153,7 +153,7 @@ Alguns dos meus projetos e estudos estão disponíveis aqui:
 
 💼 **[LinkedIn](https://linkedin.com/in/luizfelixdev)**
 
-🌐 **[Meu Portfólio](https://devportfolio-one.vercel.app/)**
+🌐 **[Meu Portfólio](https://devportifolio-one.vercel.app/)**
 
 </p>
 
