@@ -98,47 +98,6 @@ sistemas distribuídos e inovação**.
 - APIs
 ---
 
-## 💼 Experiência
-
-### 🚀 Desenvolvedor Front-end / Tech Lead
-**Aplicativo de Delivery de Serviços**  
-`Março 2026 — Atualmente`
-
-- Liderança técnica do projeto
-- Definição de arquitetura e tecnologias
-- Desenvolvimento de interfaces mobile
-- Criação de componentes reutilizáveis
-- Gerenciamento de estado
-- Navegação entre telas
-- Integração com APIs
-- Design e UX/UI
-- Revisão de Pull Requests
-- Atuação próxima ao Back-end
-
-### ⚡ Desenvolvedor NoCode — SEAPAC
-`Janeiro 2026 — Atualmente`
-
-- Desenvolvimento de sistemas utilizando **AppSheet**
-- Criação de funcionalidades e automações
-- Correção de bugs em produção
-- Suporte técnico aos usuários
-- Gestão e manipulação de dados
-- Transformação de necessidades em soluções
-
-### 🌐 Desenvolvedor Web — UFRN
-`Outubro 2025 — Julho 2026`
-
-Desenvolvimento de um sistema web para uma loja de roupas.
-
-- Planejamento das regras de negócio
-- Sistema de estoque, vendas e pedidos
-- Design das interfaces
-- Desenvolvimento de API Back-end
-- Autenticação
-- Lógica de negócio
-- Entrega de produto para utilização real
-
----
 
 ## 📚 Formação
 
@@ -147,21 +106,6 @@ Desenvolvimento de um sistema web para uma loja de roupas.
 
 🏫 **Técnico em Edificações — IFPB**  
 `2020 — 2023`
-
----
-
-## 📜 Certificados
-
-- Versionamento de Código com Git e GitHub — DIO
-- Programação Orientada a Objetos com C# — DIO
-- SQL Server — Dominando Tabelas e Tipos de Dados
-- Gerenciador de Podcasts — API NodeJS + TypeScript
-- Criando Minimal API NodeJS e Fastify
-- Criando APIs com NodeJS
-- Introdução a Clean Code
-- Primeiros Passos com React Native e Expo
-- Trabalhando com Navigation no React Native
-- Casos de Uso com Hooks no React Native
 
 ---
 
